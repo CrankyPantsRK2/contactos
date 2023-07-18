@@ -1,0 +1,14 @@
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.card {
+  margin-bottom: 20px;
+}
+
+/* Otros estilos globales */
